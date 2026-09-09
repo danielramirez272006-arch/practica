@@ -1,12 +1,7 @@
+import PracticePage from './pages/practice-page';
 
 function App() {
-  
-
-  return (
-    <>
-      
-    </>
-  )
+  return <PracticePage />;
 }
 
-export default App
+export default App;
